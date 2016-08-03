@@ -4,7 +4,7 @@ import { AsyncPipe } from '@angular/common';
 import { Observable } from 'rxjs/Observable';
 
 @Component({
-    selector: 'cvd-app',
+    selector: 'app',
     directives: [ ROUTER_DIRECTIVES ],
     pipes: [ AsyncPipe ],
     encapsulation: ViewEncapsulation.None,
