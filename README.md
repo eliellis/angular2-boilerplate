@@ -7,8 +7,15 @@ Built to work with Typescript.
 
 ##Installation
 To generate the example bundle run
-`npm install`
+```
+npm install
+```
 followed by
-`webpack`
+```
+webpack
+```
 or
-`webpack-dev-server --hot --inline` to get a live-reloading copy served to your localhost.
+```
+webpack-dev-server --hot --inline
+```
+to get a live-reloading copy served to your localhost.
