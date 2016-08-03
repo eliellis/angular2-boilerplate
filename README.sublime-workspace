@@ -1,0 +1,829 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height	property"
+			],
+			[
+				"gdt",
+				"gdt_start"
+			],
+			[
+				"jg",
+				"jg 	Jump if Condition Is Met"
+			],
+			[
+				"prin",
+				"print_char	label"
+			],
+			[
+				"print",
+				"print_string	label"
+			],
+			[
+				"p",
+				"print_char	label"
+			],
+			[
+				"sh",
+				"shr 	Shift"
+			],
+			[
+				"pr",
+				"print	label"
+			],
+			[
+				"core",
+				"coreRodComments	property"
+			],
+			[
+				"coreR",
+				"coreRodComments	let"
+			],
+			[
+				"co",
+				"coreRodComments	property"
+			],
+			[
+				"expor",
+				"export"
+			],
+			[
+				"Ch",
+				"ChangeDetectorRef	alias"
+			],
+			[
+				"on",
+				"onLineDeselected	property"
+			],
+			[
+				"lin",
+				"onLineSelected	property"
+			],
+			[
+				"a",
+				"attr	method"
+			],
+			[
+				"sel",
+				"selectedLine	parameter"
+			],
+			[
+				"ea",
+				"ease	method"
+			],
+			[
+				"in",
+				"instanceof	keyword"
+			],
+			[
+				"big",
+				"bigStroke	let"
+			],
+			[
+				"grp",
+				"graphElement	property"
+			],
+			[
+				"da",
+				"datum	method"
+			],
+			[
+				"pi",
+				"pillColors	property"
+			],
+			[
+				"parse",
+				"parseInt	method"
+			],
+			[
+				"is",
+				"isInteger	method"
+			],
+			[
+				"type",
+				"typeof	keyword"
+			],
+			[
+				"o",
+				"orderParameter	property"
+			],
+			[
+				"det",
+				"detectChanges	method"
+			],
+			[
+				"cvd",
+				"cvd-dropdown"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"grap",
+				"graphListData	property"
+			],
+			[
+				"drow",
+				"productCodeDropdownKey	property"
+			],
+			[
+				"show",
+				"showProductCodes	property"
+			],
+			[
+				"r",
+				"routerState	property"
+			],
+			[
+				"route",
+				"router	property"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"t",
+				"transition	method"
+			],
+			[
+				"pill",
+				"pillLines	property"
+			],
+			[
+				"line",
+				"lineData	parameter"
+			],
+			[
+				"sele",
+				"selectAll	method"
+			],
+			[
+				"h",
+				"hueristicData	property"
+			],
+			[
+				"chan",
+				"changeDetectorRef"
+			],
+			[
+				"prod",
+				"productCode"
+			],
+			[
+				"prd",
+				"productCode"
+			],
+			[
+				"productCodeDr",
+				"productCodeDropdownKey"
+			],
+			[
+				"pro",
+				"productCodeDropdownKey"
+			],
+			[
+				"coreRod",
+				"coreRodTable"
+			],
+			[
+				"key",
+				"keySelection"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"de",
+				"detectChanges"
+			],
+			[
+				"cha",
+				"changeDetectorRef"
+			],
+			[
+				"l",
+				"latheSelected	method"
+			],
+			[
+				"ref",
+				"changeDetectorRef	property"
+			],
+			[
+				"graph",
+				"graphElement	property"
+			],
+			[
+				"mostY",
+				"mostYMin	local var"
+			],
+			[
+				"mos",
+				"mostXMax	local var"
+			],
+			[
+				"mostX",
+				"mostXMin	local var"
+			],
+			[
+				"s",
+				"sqrt	method"
+			],
+			[
+				"par",
+				"parameters"
+			],
+			[
+				"I",
+				"Input	var"
+			],
+			[
+				"to",
+				"toUTCString	method"
+			],
+			[
+				"App",
+				"ApplicationRef	alias"
+			],
+			[
+				"text",
+				"text-orientation"
+			],
+			[
+				"sub",
+				"subscribe	method"
+			],
+			[
+				"EVEN",
+				"EventEmitter	alias"
+			],
+			[
+				"n",
+				"navigateByUrl	method"
+			],
+			[
+				"selec",
+				"selectedCoreRods	property"
+			],
+			[
+				"tran",
+				"translateY()"
+			],
+			[
+				"ch",
+				"detectChanges	method"
+			],
+			[
+				"c",
+				"changeDetectorRef	property"
+			],
+			[
+				"se",
+				"selections	property"
+			],
+			[
+				"con",
+				"console	var"
+			],
+			[
+				"cons",
+				"console	var"
+			],
+			[
+				"days",
+				"daysInMonth	property"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"Elem",
+				"ElementRef	alias"
+			],
+			[
+				"typ",
+				"typeof	keyword"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"getYe",
+				"getFullYear	method"
+			],
+			[
+				"Rou",
+				"Route	alias"
+			],
+			[
+				"overfl",
+				"overflow-y"
+			],
+			[
+				"machin",
+				"machineSelected	property"
+			],
+			[
+				"Event",
+				"EventEmitter	alias"
+			],
+			[
+				"O",
+				"Observable	alias"
+			],
+			[
+				"const",
+				"constructor	keyword"
+			],
+			[
+				"set",
+				"setDate	method"
+			],
+			[
+				"Route",
+				"RouterConfig	alias"
+			],
+			[
+				"router",
+				"routerOutletMap	parameter"
+			],
+			[
+				"Core",
+				"CoreRodServices	alias"
+			],
+			[
+				"Mock",
+				"MockRedux	class"
+			],
+			[
+				"selected",
+				"selectedState	property"
+			],
+			[
+				"na",
+				"navState"
+			],
+			[
+				"reci",
+				"recieveCVDListError	method"
+			],
+			[
+				"cl",
+				"class	class …"
+			],
+			[
+				"CVDS",
+				"CVDServices"
+			],
+			[
+				"REC",
+				"RECIEVE_CVD_DATA_ERROR"
+			],
+			[
+				"RECIEV",
+				"RECIEVE_CVD_DATA"
+			],
+			[
+				"cvdSer",
+				"CVDService"
+			],
+			[
+				"forEach",
+				"forEach(callback)	Array"
+			],
+			[
+				"Toggleable",
+				"ToggleableDropdownMenu"
+			],
+			[
+				"comp",
+				"componentWillReceiveProps	Life Cycle Method"
+			],
+			[
+				"compo",
+				"componentWillReceiveProps	Life Cycle Method"
+			],
+			[
+				"compone",
+				"componentWillReceiveProps	Life Cycle Method"
+			],
+			[
+				"consol",
+				"console.log()"
+			],
+			[
+				"componen",
+				"componentWillUnmount	Life Cycle Method"
+			],
+			[
+				"consoe",
+				"console.log()"
+			],
+			[
+				"showCore",
+				"showCoreDiameterGraph"
+			],
+			[
+				"ba",
+				"background	Style CSS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "angular2-boilerplate.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ellisel001/Documents/angular2-boilerplate"
+	],
+	"file_history":
+	[
+		"/C/Users/ellisel001/Documents/angular2-boilerplate/package.json",
+		"/C/Users/ellisel001/Documents/cvd-angular/README.md",
+		"/C/Users/ellisel001/Documents/cvd-angular/docs/help.md",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/containers/app.spec.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/services/CoreRodServices.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/package.json",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/table/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/dropdown/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/services/ProductCodesServices.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/containers/graph-page.tmpl.html",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/lineGraph/index.ts",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv006f1f/Bv00192b/boot_protected.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv006f1f/Bv00104d/gdt.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv001443/gdt.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv005454/boot5.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv005b4e/print_hex.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv00592d/print.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv0054f7/print_hex.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv0051e1/print_hex.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv003a50/boot5.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv005175/print_string.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv001c0a/print_string.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv006db1/rsa",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv006cb6/rsa",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv006064/boot5.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv005c25/Bv005cab/print_string.asm",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/containers/selection-page.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/styles/styles.css",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/containers/graph-page.ts",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv0061f0/boot5.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv0061df/print_string.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv006414/padding.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv00543c/boot4.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv003111/boot_sect3.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv003111/boot_sect4.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv00198b/boot_sect1.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv001a3c/boot_sect2.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv002238/boot_sect2.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv00198b/Bv00220e/boot_sect2.asm",
+		"/C/Users/ELLISE~1/AppData/Local/Temp/BvSshSftp/Bv0018aa/{DA1DF4D6-9F2F-436C-8CD9-2C3B9FB33960}",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv0018aa/Bv0018ba/boot_sect1.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv0017dc/Bv0017dc/boot_sect1.asm",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv0063ed/Bv002505/tunnel.js",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv0063ed/Bv003222/package.json",
+		"/C/Users/ELLISE~1/AppData/Local/Temp/BvSshSftp/Bv0063ed/{8092421F-9981-44DE-A800-70D3A8399D87}",
+		"/C/Users/ellisel001/AppData/Local/Temp/BvSshSftp/Bv0063ed/Bv0063ed/index.js",
+		"/C/Users/ellisel001/Downloads/tcp-over-dns-1.3/server-example.bat",
+		"/C/Users/ellisel001/Downloads/tcp-over-dns-1.3/client-example.bat",
+		"/C/Users/ellisel001/Documents/cvd-angular/typings/d3/d3.d.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/table/style.css",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/containers/selection-page.tmpl.html",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/pipes/orderBy.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/.gitignore",
+		"/C/Users/ellisel001/Desktop/node.bat",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/pipes/coreRodFilter.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/pipes/productCodesFilter.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/containers/cvd-app.tmpl.html",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/services/InitialDataServices.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/constants/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/dateChooser/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/dropdown/style.css",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/lineGraph/style.css",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/routes/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/pipes/passback.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/dist/index.html",
+		"/C/Users/ellisel001/Documents/cvd-app/app/components/CVDLineGraph.jsx",
+		"/C/Users/ellisel001/Documents/cvd-angular/webpack.config.js",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/dropdown/styles.css",
+		"/C/Users/ellisel001/Documents/cvd-angular/typings/index.d.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/karma_html/PhantomJS 2.1.1 (Windows 7 0.0.0)/index.html",
+		"/C/Users/ellisel001/Documents/cvd-angular/karma.conf.js",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/containers/app.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/services/CVDServices.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/navBar/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/actions/CoreRodActions.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/actions/CoreRodActions.spec.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/util/router-test-provider.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/actions/CVDActions.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/tests.entry.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/webpack/loaders.js",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/styles/index.css",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/components/button/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/index.html",
+		"/C/Users/ellisel001/Documents/cvd-angular/node_modules/@angular/router/index.js",
+		"/C/Users/ellisel001/Documents/cvd-app/app/actions/actions.jsx",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/reducers/coreRods.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/tsconfig.json",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/reducers/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-app/app/reducers/reducers.jsx",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/reducers/cvdMachines.ts",
+		"/C/Users/ellisel001/Documents/cvd-angular/app/actions/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-app/app/stores/store.jsx",
+		"/C/Users/ellisel001/Documents/cvd-angular/webpack/plugins.js",
+		"/C/Users/ellisel001/Documents/cvd-angular/loaders.js",
+		"/C/Users/ellisel001/cvd-app/src/app/environment.ts",
+		"/C/Users/ellisel001/cvd-app/src/app/app.component.spec.ts",
+		"/C/Users/ellisel001/cvd-app/src/app/app.component.html",
+		"/C/Users/ellisel001/cvd-app/src/app/app.component.ts",
+		"/C/Users/ellisel001/cvd-app/src/app/index.ts",
+		"/C/Users/ellisel001/cvd-app/src/index.html",
+		"/C/Users/ellisel001/cvd-app/src/main.ts",
+		"/C/Users/ellisel001/cvd-app/package.json",
+		"/C/Users/ellisel001/cvd-app/src/typings.d.ts",
+		"/C/Users/ellisel001/cvd-app/src/system-config.ts",
+		"/C/Users/ellisel001/cvd-app/src/app/shared/index.ts",
+		"/C/Users/ellisel001/Documents/cvd-app/app/constants/appConstants.jsx",
+		"/C/Users/ellisel001/Documents/cvd-app/app/components/ToggleableDropdownButton.jsx",
+		"/C/Users/ellisel001/Documents/cvd-app/app/components/App.jsx",
+		"/C/Users/ellisel001/Documents/cvd-app/package.json",
+		"/C/Users/ellisel001/Documents/cvd-app/app/components/CVDList.jsx",
+		"/C/Users/ellisel001/Documents/cvd-app/app/index.html",
+		"/C/Users/ellisel001/Documents/cvd-app/app/components/CVDGraph.jsx",
+		"/Z/Fiber/Report/BrightSign/test/scripts/graphs/radial_graph.js",
+		"/C/Users/ellisel001/Documents/cvd-app/app/index.jsx",
+		"/C/Users/ellisel001/Documents/cvd-app/node_modules/material-ui/package.json",
+		"/C/Users/ellisel001/Documents/cvd-app/webpack.config.js",
+		"/Z/Fiber/Report/BrightSign/test/scripts/app.js",
+		"/Z/Fiber/Report/BrightSign/test/index.html",
+		"/C/Users/ellisel001/Documents/cvd-app/dist/index.html",
+		"//nas683-02us/Apache_Doc_Root_Prod/Fiber/ProcessControl/cvd/get_pk2600_data.php",
+		"/C/Users/ellisel001/Documents/cvd-app/app/stores/cvdDataStore.jsx",
+		"/C/Users/ellisel001/Documents/cvd-app/app/styles/CVDList.style.jsx",
+		"/C/Users/ellisel001/Documents/cvd-app/README.md",
+		"/C/Users/ellisel001/Documents/cvd-app/app/components/ErrorDisplay.jsx",
+		"/C/Users/ellisel001/Documents/cvd-app/app/stores/graphDataStore.jsx",
+		"/C/Users/ellisel001/Documents/cvd-app/.gitignore",
+		"//nas683-02us/Apache_Doc_Root_Prod/Fiber/ProcessControl/cvd/get_pcvd_data.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"event",
+			"lineID",
+			"'end'",
+			"end",
+			"line",
+			"CODE",
+			"cvd",
+			"length",
+			"rese",
+			"select",
+			"selectedCore",
+			"cvd",
+			"machin",
+			"RouterConfig",
+			"config",
+			"RouterConfig",
+			"btn",
+			"Output",
+			"single",
+			"show",
+			"\"/>",
+			"});\n",
+			"getlist",
+			"null",
+			"RECIEVE_CVD_DATA_ERROR",
+			";\n",
+			"    \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "angular2-boilerplate.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
